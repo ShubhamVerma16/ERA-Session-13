@@ -58,5 +58,3 @@ HF Link: https://huggingface.co/spaces/SV12/ERA_Session13
 ### GradCAM Images
 ![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/ba2c5cc1-7bc5-40ab-b83c-0115d6edb36e)
 
-### HuggingFace Interface
-
