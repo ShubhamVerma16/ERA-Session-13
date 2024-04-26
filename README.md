@@ -1,4 +1,4 @@
-# ERA-SESSION12 PyTorch Lightning &amp; Gradio
+# ERA-SESSION13 PyTorch Lightning &amp; Gradio
 
 HF Link: https://huggingface.co/spaces/RaviNaik/ERA-Session12
 
@@ -61,15 +61,3 @@ HF Link: https://huggingface.co/spaces/RaviNaik/ERA-Session12
 ![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/658535f0-a322-4b84-adce-840b0cd74807)
 ![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/60f46957-d308-4538-9eef-1346c15aadf2)
 ![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/fc8d3d7c-cd2e-46d5-b599-b61b45845ee9)
-
-
-
-
-
-
-
-
-
-
-
-
