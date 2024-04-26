@@ -3,19 +3,16 @@
 HF Link: https://huggingface.co/spaces/RaviNaik/ERA-Session12
 
 ### Tasks:
-1. :heavy_check_mark: Move your S10 assignment to Lightning first and then to Spaces such that: 
- - (You have retrained your model on Lightning) 
- - You are using Gradio 
-2. :heavy_check_mark: Your spaces app has these features: 
- - ask the user whether he/she wants to see GradCAM images and how many, and from which layer, allow opacity change as well 
- - ask whether he/she wants to view misclassified images, and how many 
- - allow users to upload new images, as well as provide 10 example images 
- - ask how many top classes are to be shown (make sure the user cannot enter more than 10) 
- - Add the full details on what your App is doing to Spaces README  
-3. :heavy_check_mark: Then:  
- - Submit the Spaces App Link 
- - Submit the Spaces README link (Space must not have a training code) 
- - Submit the GitHub Link where Lightning Code can be found along with detailed README with log, loss function graphs, and 10 misclassified images
+- [x] Move your S11 assignment to Lightning first and then to Spaces such that: 
+  - (You have retrained your model on Lightning) 
+  - You are using Gradio 
+- [x] Your spaces app has these features: 
+  - ask the user whether he/she wants to see GradCAM images and how many, and from which layer, allow opacity change as well 
+  - ask whether he/she wants to view misclassified images, and how many 
+  - allow users to upload new images, as well as provide 10 example images 
+  - ask how many top classes are to be shown (make sure the user cannot enter more than 10) 
+  - Add the full details on what your App is doing to Spaces README  
+
 ### Model Summary
 ```python
   | Name     | Type               | Params
@@ -36,28 +33,30 @@ HF Link: https://huggingface.co/spaces/RaviNaik/ERA-Session12
 ```
 
 ### LR Finder
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/bfbffdb8-614d-48c0-bff7-3acf71213b76)
-
-### Accuracy
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/47d4b1da-2573-4022-b6b4-05d1f93d5757)
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/9cecc3eb-0c47-4c6b-892e-fbd12ba30a9e)
 
 ### Test Accuracy
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/a0959618-17c8-4ada-980f-6dc7ba76eb61)
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/4eb2d59f-85c8-4c75-bd94-be7af50d3e70)
 
 ### Tensorboard Plots
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/6337fc11-67c0-4039-a0b5-8238a0307eca)
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/78f2b7ad-b781-4009-8356-15a6ff512896)
+#### Train Acc
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/9bd658e8-23d0-46d8-ad3a-9cd998753988)
 
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/da4141b3-b13f-4390-9e24-519c8ac0f5b8)
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/d30ea859-6bb5-469c-9097-bc198595309f)
+#### Train Loss
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/0bcd1766-a30a-4dd3-b1de-82c5354694d3)
+
+#### Validation Acc
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/ffe7a8c6-3187-43c4-8a35-6e50898484e7)
+
+#### Validation Loss
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/95d99291-32ee-404c-b797-d2e880521e4d)
+
 
 ### Misclassified Images
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/75494f70-a533-4a70-8c11-ef4c63fce21b)
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/b329a39b-18be-477b-9af4-4f67c41c4a94)
 
 ### GradCAM Images
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/4d2a75fa-3902-4839-a32a-bbfec4ef72ba)
+![image](https://github.com/ShubhamVerma16/ERA-Session-13/assets/46774613/ba2c5cc1-7bc5-40ab-b83c-0115d6edb36e)
 
 ### HuggingFace Interface
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/658535f0-a322-4b84-adce-840b0cd74807)
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/60f46957-d308-4538-9eef-1346c15aadf2)
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/fc8d3d7c-cd2e-46d5-b599-b61b45845ee9)
+
